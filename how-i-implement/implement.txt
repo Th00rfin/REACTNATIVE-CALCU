@@ -1,0 +1,12 @@
+• what have ?
+    • button for addition and other arithmetic technique 
+    • useState and useEffect for managing the state of numbers 
+     
+
+: calculation the it work/discuss
+    gamit Ako for loop from 0-999999999999
+   or gamit nalang array 0-9 tas kapag pindot 1 gawin ko lang is add ko lang yon using useEffect kung ano pinidot nya. tas Basta ganun
+
+ then lalagay kk sa 
+- display 1-9 tas 
+so if nag 1 tas 1 ulit, is compare yon sa for loop, tas king andun ba 1 tas kapag andun, add ko lang or times kung ano man yon;
